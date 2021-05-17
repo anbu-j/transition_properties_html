@@ -1,0 +1,20 @@
+.rect1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition-property: width;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+  }
+  
+  .rect2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition-property: width;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+  }
+  div:hover {
+    width: 100px;
+  }
